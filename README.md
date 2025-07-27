@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Innovation Hub - Multi-Role Incubation Platform
 
 A complete frontend system for a full-featured multi-role incubation platform where students can submit innovative ideas, colleges can endorse those ideas, and incubation centers can evaluate and track them.
@@ -170,3 +171,6 @@ The project structure supports comprehensive testing:
 ---
 
 Built with ❤️ using React.js and modern web technologies.
+=======
+# sgbau-
+>>>>>>> 624247a2fccacb42700f8cee8a2987ab28c5a26f
